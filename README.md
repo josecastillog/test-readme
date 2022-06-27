@@ -52,7 +52,7 @@ Please list two areas of the assignment you'd like to **discuss further with you
 
 Here's a walkthrough of implemented user stories:
 
-![](https://imgur.com/a/URMgcW9)
+![](https://imgur.com/a/7KM0AbW)
 
 ## Notes
 
