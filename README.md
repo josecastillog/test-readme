@@ -52,7 +52,7 @@ Please list two areas of the assignment you'd like to **discuss further with you
 
 Here's a walkthrough of implemented user stories:
 
-![](https://media.giphy.com/media/HLHjDt43pfCPKwqudp/giphy.gif)
+![](https://media.giphy.com/media/EreNN5goh54N3sJa1k/giphy.gif)
 
 ## Notes
 
