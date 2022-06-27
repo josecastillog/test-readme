@@ -52,7 +52,7 @@ Please list two areas of the assignment you'd like to **discuss further with you
 
 Here's a walkthrough of implemented user stories:
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/vz4U1yJ"  ><a href="//imgur.com/a/vz4U1yJ">Twitter Clone Codepath</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+![](https://imgur.com/a/9mEskoq.gif)
 
 ## Notes
 
