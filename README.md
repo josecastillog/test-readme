@@ -63,3 +63,9 @@ Biggest challenge was handling all API requests. Also the multiples segue and pr
 List an 3rd party libraries, icons, graphics, or other assets you used in your app.
 
 - [AFNetworking](https://github.com/AFNetworking/AFNetworking) - networking task library
+
+
+
+
+https://user-images.githubusercontent.com/69658875/178608469-f1b7df16-24e4-4a8c-acdb-2e6dd18c6f41.mp4
+
